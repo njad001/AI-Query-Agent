@@ -15,4 +15,3 @@ The agent accepts user questions, routes them through a graph-based workflow, an
 * Processes them through an agent graph
 * Returns responses asynchronously
 * Manages conversation context safely
-* The model generates a final response
